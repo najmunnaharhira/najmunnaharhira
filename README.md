@@ -1,137 +1,170 @@
-# Hi 👋 I'm Najmun Nahar Hira
+<!-- Animated Typing Header -->
+<h1 align="center">
+  Hi 👋 I'm Najmun Nahar Hira
+</h1>
 
-🚀 **Full Stack Software Engineer | AI Research Enthusiast | Tech Entrepreneur**
-
-I am a software engineer and founder of **Chilekotha**, building scalable web applications, SaaS products, and AI-driven solutions. I have built **160+ projects** including production platforms, marketing systems, and automation tools.
-
-I enjoy working with **modern JavaScript frameworks, backend systems, and machine learning research.**
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/najmunnaharhiraswe  
-- 🖥 Portfolio: https://chilekotha.top  
-- 🏢 Company: https://chilekotha.top  
-- 🐙 GitHub: https://github.com/najmunnaharhira  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;AI+Research+Enthusiast;Founder+of+Chilekotha;Building+160%2B+Projects;Next.js+%7C+Node.js+%7C+AI+Developer" />
+</p>
 
 ---
 
-# 🧠 Tech Stack
+# 👩‍💻 About Me
+
+🚀 Full Stack Software Engineer, Entrepreneur and AI Research Enthusiast.  
+Founder of **Chilekotha** and **Chilekotha Digital Solutions**.
+
+I have built **160+ software projects**, including production platforms, SaaS tools, marketing systems and automation software.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/najmunnaharhira"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/najmunnaharhiraswe"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://chilekotha.top"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge"/></a>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=najmunnaharhira&label=Profile%20views&color=blue&style=flat" alt="visitor counter"/>
+
+---
+
+# 🏢 Companies
+
+**Chilekotha**  
+Technology and product development company building scalable web platforms, SaaS systems, and modern software solutions.
+
+**Chilekotha Digital Solutions**  
+Digital marketing and creative technology company delivering marketing campaigns, video production, and growth solutions.
+
+---
+
+# 💻 Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css"/>
+</p>
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=nestjs)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
+</p>
 
 ### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+<p>
+<img src="https://skillicons.dev/icons?i=flutter"/>
+</p>
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+</p>
 
-### AI & Data
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-Machine Learning  
-Deep Learning  
-Reinforcement Learning  
-
----
-
-# 🚀 Professional Experience
-
-### Founder & CEO
-**Chilekotha / Chilekotha Digital Solutions**  
-2021 – Present  
-
-- Built **20+ production level platforms**
-- Delivered **150+ marketing projects**
-- Created **150+ video content projects**
-- Led full stack development teams
+### AI / Data
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+</p>
 
 ---
 
-### Marketing Director
-**KFD Express**
+# 🚀 Experience
 
-- Managed marketing campaigns and digital growth
+Founder & CEO — **Chilekotha / Chilekotha Digital Solutions**
 
----
+Marketing Director — **Hira's Hub (3+ years)**
 
-### Software Engineer
-**Designfilo**
+Marketing Director — **KFD Express**
 
-Worked on software solutions and development projects.
+Software Engineer — **Designfilo**
 
----
+Full Stack Web Developer — **Hook Marketing Agency (2 years)**
 
-### Full Stack Web Developer
-**Hook Marketing Agency**
+Associate Co-ordinator — **Butterfly Bangladesh**
 
-Worked **2 years** building scalable web applications and digital systems.
+Upskill Development Mentor — **Skider IT & Chilekotha**
 
----
+Campus Ambassador — **ICT Olympiad Bangladesh**
 
-# 🏆 Achievements
+Volunteer — **Bangladesh Red Crescent (2016–2017)**
 
-🥇 **Ranked 1st in Bangladesh – PSC Exam (2012)**  
-🎓 GPA 5.00 – JSC (2015)  
-🏅 Talentpool Scholarship – SSC (2018)  
-🎓 General Grade Scholarship – HSC (2020)  
-🌍 **Google Community Product Expert (2022)**  
+Google Community Product Expert (2022)
 
 ---
 
-# 📚 Education
+# 🌍 Languages
 
-**BSc in Software Engineering**  
-Shahjalal University of Science and Technology  
-
-Research Topic: **Reinforcement Learning**
+🇧🇩 Bangla — Native  
+🇺🇸 English — Professional Working Proficiency  
+🇮🇳 Hindi — Conversational  
 
 ---
 
-# 💻 Projects
+# 🚀 Featured Projects
 
-I have built **160+ software projects** including SaaS systems, production platforms, and marketing automation tools.
+| Project | Description |
+|------|-------------|
+| SaaS Platforms | Full stack SaaS applications built with Next.js and Node.js |
+| Marketing Systems | Automation tools for digital marketing campaigns |
+| AI Experiments | Reinforcement learning and ML research projects |
+| Web Applications | Scalable production-ready full stack apps |
 
-You can see the full project list here:
-
-👉 https://docs.google.com/document/d/18K2QXV2OVsXnB2gdZdprePWrCNOKtm5ncv7CzziEydU
+👉 Full Project List  
+https://docs.google.com/document/d/18K2QXV2OVsXnB2gdZdprePWrCNOKtm5ncv7CzziEydU
 
 ---
 
 # 📊 GitHub Stats
 
-![Hira's GitHub stats](https://github-readme-stats.vercel.app/api?username=najmunnaharhira&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=najmunnaharhira&show_icons=true&theme=tokyonight"/>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=najmunnaharhira&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=najmunnaharhira&theme=tokyonight"/>
+</p>
 
 ---
 
 # 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najmunnaharhira&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmunnaharhira&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-# 🤝 Open Source & Community
+# 🐍 Contribution Snake
 
-- Google Community Product Expert
-- Red Crescent Volunteer (2016–2017)
+![snake gif](https://github.com/najmunnaharhira/najmunnaharhira/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-⭐ *Always interested in building impactful products, AI research, and collaborating on innovative software projects.*
+# 🎓 Education
+
+**BSc in Software Engineering**  
+Shahjalal University of Science and Technology  
+
+Research: **Reinforcement Learning**
+
+---
+
+# 🏆 Achievements
+
+🥇 Ranked **1st in Bangladesh — PSC Exam (2012)**  
+🏅 Talentpool Scholarship — SSC  
+🎓 General Grade Scholarship — HSC  
+🌍 Google Community Product Expert (2022)
+
+---
+
+⭐ Always interested in building impactful software, AI research, and innovative digital products.
