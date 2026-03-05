@@ -1,26 +1,29 @@
 <!-- Animated Typing Header -->
-<h1 align="center">
-  Hi 👋 I'm Najmun Nahar Hira
-</h1>
+<h1 align="center">Hi 👋 I'm Najmun Nahar Hira</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;AI+Research+Enthusiast;Founder+of+Chilekotha;Building+160%2B+Projects;Next.js+%7C+Node.js+%7C+AI+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer;AI+Research+Enthusiast;Founder+of+Chilekotha;Building+160%2B+Projects;Next.js+%7C+Node.js+%7C+AI+Developer" />
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-🚀 Full Stack Software Engineer, Entrepreneur and AI Research Enthusiast.  
+🚀 Full Stack Software Engineer, Tech Entrepreneur and AI Research Enthusiast.
+
 Founder of **Chilekotha** and **Chilekotha Digital Solutions**.
 
-I have built **160+ software projects**, including production platforms, SaaS tools, marketing systems and automation software.
+✔ Built **160+ software projects**  
+✔ Created **20+ production platforms**  
+✔ Delivered **150+ marketing projects**
+
+Interested in **AI, Reinforcement Learning, SaaS platforms, and scalable systems.**
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p>
 <a href="https://github.com/najmunnaharhira"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
 <a href="https://www.linkedin.com/in/najmunnaharhiraswe"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 <a href="https://chilekotha.top"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge"/></a>
@@ -28,47 +31,26 @@ I have built **160+ software projects**, including production platforms, SaaS to
 
 ---
 
-# 👀 Profile Views
+# 👀 Visitors
 
-<img src="https://komarev.com/ghpvc/?username=najmunnaharhira&label=Profile%20views&color=blue&style=flat" alt="visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=najmunnaharhira&label=Profile%20views&color=blue&style=flat"/>
 
 ---
 
 # 🏢 Companies
 
 **Chilekotha**  
-Technology and product development company building scalable web platforms, SaaS systems, and modern software solutions.
+Technology and product development company building scalable web platforms and SaaS products.
 
 **Chilekotha Digital Solutions**  
-Digital marketing and creative technology company delivering marketing campaigns, video production, and growth solutions.
+Creative technology and digital marketing company delivering growth solutions and video campaigns.
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Animated Tech Stack
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css"/>
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
-</p>
-
-### Mobile
-<p>
-<img src="https://skillicons.dev/icons?i=flutter"/>
-</p>
-
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
-</p>
-
-### AI / Data
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flutter,mongodb,mysql,postgres,python,js,tailwind,html,css&perline=7"/>
 </p>
 
 ---
@@ -83,7 +65,7 @@ Marketing Director — **KFD Express**
 
 Software Engineer — **Designfilo**
 
-Full Stack Web Developer — **Hook Marketing Agency (2 years)**
+Full Stack Developer — **Hook Marketing Agency (2 years)**
 
 Associate Co-ordinator — **Butterfly Bangladesh**
 
@@ -91,7 +73,7 @@ Upskill Development Mentor — **Skider IT & Chilekotha**
 
 Campus Ambassador — **ICT Olympiad Bangladesh**
 
-Volunteer — **Bangladesh Red Crescent (2016–2017)**
+Volunteer — **Bangladesh Red Crescent**
 
 Google Community Product Expert (2022)
 
@@ -100,7 +82,7 @@ Google Community Product Expert (2022)
 # 🌍 Languages
 
 🇧🇩 Bangla — Native  
-🇺🇸 English — Professional Working Proficiency  
+🇺🇸 English — Professional  
 🇮🇳 Hindi — Conversational  
 
 ---
@@ -108,14 +90,24 @@ Google Community Product Expert (2022)
 # 🚀 Featured Projects
 
 | Project | Description |
-|------|-------------|
+|-------|-------------|
 | SaaS Platforms | Full stack SaaS applications built with Next.js and Node.js |
-| Marketing Systems | Automation tools for digital marketing campaigns |
-| AI Experiments | Reinforcement learning and ML research projects |
-| Web Applications | Scalable production-ready full stack apps |
+| AI Experiments | Reinforcement learning and ML research |
+| Marketing Systems | Automation platforms for digital marketing |
+| Production Apps | Scalable web applications |
 
-👉 Full Project List  
+📂 Full Project List  
 https://docs.google.com/document/d/18K2QXV2OVsXnB2gdZdprePWrCNOKtm5ncv7CzziEydU
+
+---
+
+# 🖥 Portfolio Preview
+
+<p align="center">
+<a href="https://chilekotha.top">
+<img src="https://api.microlink.io/?url=https://chilekotha.top&screenshot=true&meta=false&embed=screenshot.url"/>
+</a>
+</p>
 
 ---
 
@@ -143,28 +135,44 @@ https://docs.google.com/document/d/18K2QXV2OVsXnB2gdZdprePWrCNOKtm5ncv7CzziEydU
 
 ---
 
+# ⏱ Coding Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=najmunnaharhira&theme=tokyo-night"/>
+</p>
+
+---
+
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/najmunnaharhira/najmunnaharhira/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
+# 🧊 3D Contribution Graph
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najmunnaharhira&theme=tokyonight"/>
+</p>
+
+---
+
 # 🎓 Education
 
-**BSc in Software Engineering**  
+BSc in Software Engineering  
 Shahjalal University of Science and Technology  
 
-Research: **Reinforcement Learning**
+Research Topic: **Reinforcement Learning**
 
 ---
 
 # 🏆 Achievements
 
-🥇 Ranked **1st in Bangladesh — PSC Exam (2012)**  
-🏅 Talentpool Scholarship — SSC  
-🎓 General Grade Scholarship — HSC  
+🥇 Ranked **1st in Bangladesh – PSC Exam (2012)**  
+🏅 Talentpool Scholarship – SSC  
+🎓 General Grade Scholarship – HSC  
 🌍 Google Community Product Expert (2022)
 
 ---
 
-⭐ Always interested in building impactful software, AI research, and innovative digital products.
+⭐ Always building impactful software, AI research, and innovative digital products.
