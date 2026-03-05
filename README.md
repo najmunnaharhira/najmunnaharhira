@@ -120,9 +120,7 @@ https://docs.google.com/document/d/18K2QXV2OVsXnB2gdZdprePWrCNOKtm5ncv7CzziEydU
 
 ---
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/najmunnaharhira/najmunnaharhira/blob/output/github-contribution-grid-snake.svg)
 
 # 🔥 GitHub Streak
 
