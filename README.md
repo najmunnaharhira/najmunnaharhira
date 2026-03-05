@@ -101,23 +101,8 @@ https://docs.google.com/document/d/18K2QXV2OVsXnB2gdZdprePWrCNOKtm5ncv7CzziEydU
 
 ---
 
-# 🖥 Portfolio Preview
 
-<p align="center">
-<a href="https://chilekotha.top">
-<img src="https://api.microlink.io/?url=https://chilekotha.top&screenshot=true&meta=false&embed=screenshot.url"/>
-</a>
-</p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=najmunnaharhira&show_icons=true&theme=tokyonight"/>
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -125,21 +110,7 @@ https://docs.google.com/document/d/18K2QXV2OVsXnB2gdZdprePWrCNOKtm5ncv7CzziEydU
 <img src="https://streak-stats.demolab.com?user=najmunnaharhira&theme=tokyonight"/>
 </p>
 
----
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najmunnaharhira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-# 📈 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmunnaharhira&layout=compact&theme=tokyonight"/>
-</p>
-
-## 📈 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najmunnaharhira&layout=compact&theme=tokyonight&hide_border=true)
----
 
 # ⏱ Coding Activity
 
@@ -167,11 +138,7 @@ https://docs.google.com/document/d/18K2QXV2OVsXnB2gdZdprePWrCNOKtm5ncv7CzziEydU
 
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-chilekotha.top-green?style=for-the-badge)](https://chilekotha.top)
 ---
- ## 🌐 Portfolio Preview
 
-<a href="https://chilekotha.top">
-<img src="https://opengraph.githubassets.com/1/najmunnaharhira/najmunnaharhira" width="600">
-</a>
 ## 📊 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najmunnaharhira&theme=tokyo-night)
