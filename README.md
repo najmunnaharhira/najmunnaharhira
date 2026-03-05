@@ -137,9 +137,7 @@ https://docs.google.com/document/d/18K2QXV2OVsXnB2gdZdprePWrCNOKtm5ncv7CzziEydU
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-chilekotha.top-green?style=for-the-badge)](https://chilekotha.top)
 ---
 
-## 📊 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najmunnaharhira&theme=tokyo-night)
 
 # 🎓 Education
 
