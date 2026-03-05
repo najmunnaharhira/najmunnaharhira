@@ -1,127 +1,197 @@
-<h1 align="center">Najmun Nahar Hira</h1>
+<!-- Animated Typing Header -->
+<h1 align="center">Hi 👋 I'm Najmun Nahar Hira</h1>
 
 <p align="center">
-Full Stack Software Engineer • AI Research Enthusiast • Tech Entrepreneur
-</p>
-
-<p align="center">
-<a href="https://github.com/najmunnaharhira">GitHub</a> •
-<a href="https://www.linkedin.com/in/najmunnaharhiraswe">LinkedIn</a> •
-<a href="https://chilekotha.top">Portfolio</a>
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer;AI+Research+Enthusiast;Founder+of+Chilekotha;Building+160%2B+Projects;Next.js+%7C+Node.js+%7C+AI+Developer" />
 </p>
 
 ---
 
-## About
+# 👩‍💻 About Me
 
-Full stack software engineer and founder of **Chilekotha** and **Chilekotha Digital Solutions**.  
-Experienced in building scalable web platforms, SaaS systems, and AI-driven applications.
+🚀 Full Stack Software Engineer, Tech Entrepreneur and AI Research Enthusiast.
 
-• Built **160+ software projects**  
-• Developed **20+ production platforms**  
-• Delivered **150+ marketing systems and automation tools**
+Founder of **Chilekotha** and **Chilekotha Digital Solutions**.
 
-My interests include **AI, reinforcement learning, distributed systems, and modern web platforms**.
+✔ Built **160+ software projects**  
+✔ Created **20+ production platforms**  
+✔ Delivered **150+ marketing projects**
+
+Interested in **AI, Reinforcement Learning, SaaS platforms, and scalable systems.**
 
 ---
 
-## Companies
+# 🌐 Connect With Me
+
+<p>
+<a href="https://github.com/najmunnaharhira"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/najmunnaharhiraswe"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://chilekotha.top"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge"/></a>
+</p>
+
+---
+
+# 👀 Visitors
+
+<img src="https://komarev.com/ghpvc/?username=najmunnaharhira&label=Profile%20views&color=blue&style=flat"/>
+
+---
+
+# 🏢 Companies
 
 **Chilekotha**  
-Technology company focused on SaaS platforms and scalable software systems.
+Technology and product development company building scalable web platforms and SaaS products.
 
 **Chilekotha Digital Solutions**  
-Digital marketing and creative technology company delivering growth solutions.
+Creative technology and digital marketing company delivering growth solutions and video campaigns.
 
 ---
 
-## Experience
+# ⚡ Animated Tech Stack
 
-Founder & CEO — Chilekotha  
-Founder — Chilekotha Digital Solutions  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flutter,mongodb,mysql,postgres,python,js,tailwind,html,css&perline=7"/>
+</p>
 
-Marketing Director — Hira's Hub (3+ years)
+---
 
-Marketing Director — KFD Express  
+# 🚀 Experience
 
-Software Engineer — Designfilo  
+Founder & CEO — **Chilekotha / Chilekotha Digital Solutions**
 
-Full Stack Developer — Hook Marketing Agency (2 years)
+Marketing Director — **Hira's Hub (3+ years)**
 
-Associate Co-ordinator — Butterfly Bangladesh  
+Marketing Director — **KFD Express**
 
-Upskill Development Mentor — Skider IT & Chilekotha  
+Software Engineer — **Designfilo**
 
-Campus Ambassador — ICT Olympiad Bangladesh  
+Full Stack Developer — **Hook Marketing Agency (2 years)**
 
-Volunteer — Bangladesh Red Crescent  
+Associate Co-ordinator — **Butterfly Bangladesh**
+
+Upskill Development Mentor — **Skider IT & Chilekotha**
+
+Campus Ambassador — **ICT Olympiad Bangladesh**
+
+Volunteer — **Bangladesh Red Crescent**
 
 Google Community Product Expert (2022)
 
 ---
 
-## Tech Stack
+# 🌍 Languages
 
-Frontend  
-React • Next.js • JavaScript • Tailwind CSS
-
-Backend  
-Node.js • Express.js • NestJS
-
-Mobile  
-Flutter
-
-Database  
-MongoDB • MySQL • PostgreSQL
-
-AI / Data  
-Python • Machine Learning • Reinforcement Learning
+🇧🇩 Bangla — Native  
+🇺🇸 English — Professional  
+🇮🇳 Hindi — Conversational  
 
 ---
 
-## Projects
+# 🚀 Featured Projects
 
-I have built **160+ projects including production platforms and SaaS tools.**
+| Project | Description |
+|-------|-------------|
+| SaaS Platforms | Full stack SaaS applications built with Next.js and Node.js |
+| AI Experiments | Reinforcement learning and ML research |
+| Marketing Systems | Automation platforms for digital marketing |
+| Production Apps | Scalable web applications |
 
-Full project demos:  
+📂 Full Project List  
 https://docs.google.com/document/d/18K2QXV2OVsXnB2gdZdprePWrCNOKtm5ncv7CzziEydU
 
 ---
 
-## GitHub Stats
+# 🖥 Portfolio Preview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najmunnaharhira&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najmunnaharhira&layout=compact&theme=github_dark)
-
----
-
-## Languages
-
-Bangla — Native  
-English — Professional  
-Hindi — Conversational
+<p align="center">
+<a href="https://chilekotha.top">
+<img src="https://api.microlink.io/?url=https://chilekotha.top&screenshot=true&meta=false&embed=screenshot.url"/>
+</a>
+</p>
 
 ---
 
-## Education
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=najmunnaharhira&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=najmunnaharhira&theme=tokyonight"/>
+</p>
+
+---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najmunnaharhira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+# 📈 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmunnaharhira&layout=compact&theme=tokyonight"/>
+</p>
+
+## 📈 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najmunnaharhira&layout=compact&theme=tokyonight&hide_border=true)
+---
+
+# ⏱ Coding Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=najmunnaharhira&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/najmunnaharhira/najmunnaharhira/blob/output/github-contribution-grid-snake.svg)
+
+---## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=najmunnaharhira&theme=tokyonight&hide_border=true)
+
+# 🧊 3D Contribution Graph
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najmunnaharhira&theme=tokyonight"/>
+</p>
+
+## 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-chilekotha.top-green?style=for-the-badge)](https://chilekotha.top)
+---
+ ## 🌐 Portfolio Preview
+
+<a href="https://chilekotha.top">
+<img src="https://opengraph.githubassets.com/1/najmunnaharhira/najmunnaharhira" width="600">
+</a>
+## 📊 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najmunnaharhira&theme=tokyo-night)
+
+# 🎓 Education
 
 BSc in Software Engineering  
-Shahjalal University of Science and Technology
+Shahjalal University of Science and Technology  
 
-Thesis: Reinforcement Learning
-
----
-
-## Achievements
-
-1st Rank in Bangladesh — PSC Exam (2012)  
-Talentpool Scholarship — SSC  
-General Grade Scholarship — HSC  
-Google Community Product Expert (2022)
+Research Topic: **Reinforcement Learning**
 
 ---
 
-## Portfolio
+# 🏆 Achievements
 
-https://chilekotha.top
+🥇 Ranked **1st in Bangladesh – PSC Exam (2012)**  
+🏅 Talentpool Scholarship – SSC  
+🎓 General Grade Scholarship – HSC  
+🌍 Google Community Product Expert (2022)
+
+---
+
+⭐ Always building impactful software, AI research, and innovative digital products.
