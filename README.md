@@ -124,7 +124,7 @@ https://docs.google.com/document/d/18K2QXV2OVsXnB2gdZdprePWrCNOKtm5ncv7CzziEydU
 
 ![snake gif](https://github.com/najmunnaharhira/najmunnaharhira/blob/output/github-contribution-grid-snake.svg)
 
----## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=najmunnaharhira&theme=tokyonight&hide_border=true)
 
