@@ -128,11 +128,15 @@ https://docs.google.com/document/d/18K2QXV2OVsXnB2gdZdprePWrCNOKtm5ncv7CzziEydU
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najmunnaharhira&theme=tokyonight"/>
 </p>
 
-## 🌐 Portfolio
+## 🌐Company Portfolio
 
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-chilekotha.top-green?style=for-the-badge)](https://chilekotha.top)
 ---
 
+## 🌐Hira's Portfolio
+
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-chilekotha.top-green?style=for-the-badge)](https://najmunnaharhira.me)
+---
 
 
 # 🎓 Education
