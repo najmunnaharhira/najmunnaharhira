@@ -47,7 +47,7 @@ Creative technology and digital marketing company delivering growth solutions an
 
 ---
 
-# ⚡ Animated Tech Stack
+# ⚡  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flutter,mongodb,mysql,postgres,python,js,tailwind,html,css&perline=7"/>
@@ -150,10 +150,11 @@ Research Topic: **Reinforcement Learning**
 
 # 🏆 Achievements
 
-🥇 Ranked **1st in Bangladesh – PSC Exam (2012)**  
+🥇 Ranked **1st in Bangladesh – PSC Exam (2012)**  II Retina Star 2020 II BioStar 2020
 🏅 Talentpool Scholarship – SSC  
 🎓 General Grade Scholarship – HSC  
 🌍 Google Community Product Expert (2022)
+
 
 ---
 
