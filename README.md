@@ -135,7 +135,7 @@ https://docs.google.com/document/d/18K2QXV2OVsXnB2gdZdprePWrCNOKtm5ncv7CzziEydU
 
 ## 🌐Hira's Portfolio
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-chilekotha.top-green?style=for-the-badge)](https://najmunnaharhira.me)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-najmunnaharhira.me-green?style=for-the-badge)](https://najmunnaharhira.me)
 ---
 
 
@@ -150,7 +150,8 @@ Research Topic: **Reinforcement Learning**
 
 # 🏆 Achievements
 
-🥇 Ranked **1st in Bangladesh – PSC Exam (2012)**  II Retina Star 2020 II BioStar 2020
+🥇 Ranked **1st in Bangladesh – PSC Exam (2012)**  II Retina Star 2020 
+🥇  Retina Star 2020 ,BioStar 2020
 🏅 Talentpool Scholarship – SSC  
 🎓 General Grade Scholarship – HSC  
 🌍 Google Community Product Expert (2022)
