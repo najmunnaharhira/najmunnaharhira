@@ -155,6 +155,7 @@ Research Topic: **Reinforcement Learning**
 
 🏅 Talentpool Scholarship – SSC  2018
 🎓 General Grade Scholarship – HSC 2022 
+
 🌍 Google Community Product Expert (2022)
 
 
