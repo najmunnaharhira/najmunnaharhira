@@ -104,11 +104,7 @@ https://docs.google.com/document/d/18K2QXV2OVsXnB2gdZdprePWrCNOKtm5ncv7CzziEydU
 
 
 
-# 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=najmunnaharhira&theme=tokyonight"/>
-</p>
 
 
 
