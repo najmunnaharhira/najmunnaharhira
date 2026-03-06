@@ -152,6 +152,7 @@ Research Topic: **Reinforcement Learning**
 
 🥇 Ranked **1st in Bangladesh – PSC Exam (2012)**  
 🥇  Retina Star 2020 ,BioStar 2020
+
 🏅 Talentpool Scholarship – SSC  
 🎓 General Grade Scholarship – HSC  
 🌍 Google Community Product Expert (2022)
