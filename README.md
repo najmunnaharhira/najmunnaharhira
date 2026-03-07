@@ -97,7 +97,7 @@ Google Community Product Expert (2022)
 | Production Apps | Scalable web applications |
 
 📂 Full Project List  
-Chilekotha Projects- https://chilekotha-projects.vercel.app/
+Chilekotha Projects- https://chilekotha.xyz/
 
 
 ---
@@ -136,7 +136,7 @@ Chilekotha Projects- https://chilekotha-projects.vercel.app/
 
 ## 🌐Hira's Portfolio
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-najmunnaharhira.me-green?style=for-the-badge)](https://najmunnaharhira.me)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-najmunnaharhira.me-green?style=for-the-badge)](https://www.najmunnaharhira.me/)
 ---
 
 
