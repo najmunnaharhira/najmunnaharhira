@@ -26,7 +26,7 @@ Interested in **AI, Reinforcement Learning, SaaS platforms, and scalable systems
 <p>
 <a href="https://github.com/najmunnaharhira"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
 <a href="https://www.linkedin.com/in/najmunnaharhiraswe"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://najmunnaharhira.me"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge"/></a>
+<a href="https://najmunnaharhira.me"><img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge"/></a>
   <a href="https://chilekotha.xyz"><img src="https://img.shields.io/badge/Company-Website-green?style=for-the-badge"/></a>
 </p>
 
