@@ -26,7 +26,7 @@ Interested in **AI, Reinforcement Learning, SaaS platforms, and scalable systems
 <p>
 <a href="https://github.com/najmunnaharhira"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
 <a href="https://www.linkedin.com/in/najmunnaharhiraswe"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://chilekotha.top"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge"/></a>
+<a href="https://chilekotha.xyz"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -131,12 +131,12 @@ Chilekotha Projects- https://chilekotha.xyz/
 
 ## 🌐Company Portfolio
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-chilekotha.top-green?style=for-the-badge)](https://chilekotha.top)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-chilekotha.top-green?style=for-the-badge)](https://chilekotha.xyz)
 ---
 
 ## 🌐Hira's Portfolio
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-najmunnaharhira.me-green?style=for-the-badge)](https://www.najmunnaharhira.me/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-najmunnaharhira.me-green?style=for-the-badge)](https://najmunnaharhira.me/)
 ---
 
 
