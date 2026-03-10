@@ -13,9 +13,9 @@
 
 Founder of **Chilekotha** and **Chilekotha Digital Solutions**.
 
-✔ Built **160+ software projects**  
+✔ Built **200+ software projects**  
 ✔ Created **20+ production platforms**  
-✔ Delivered **150+ marketing projects**
+✔ Delivered **500+ marketing projects**
 
 Interested in **AI, Reinforcement Learning, SaaS platforms, and scalable systems.**
 
