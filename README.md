@@ -152,8 +152,11 @@ Research Topic: **Reinforcement Learning**
 
 # 🏆 Achievements
 
-🥇 Ranked **1st in Bangladesh – PSC Exam (2012)** 
-🥇  **Retina Star** 2020 ,**BioStar** 2020
+🥇 Ranked **1st in Bangladesh – PSC Exam (2012)**
+
+🥇  **Retina Star** 2020 ,
+
+**BioStar** 2020
 
 🏅 Talentpool Scholarship – SSC  2018
 🎓 General Grade Scholarship – HSC 2022 
