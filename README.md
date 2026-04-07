@@ -156,12 +156,12 @@ Research Topic: **Reinforcement Learning**
 
 🥇  **Retina Star** 2020 ,
 
-**BioStar** 2020
+🥇  **BioStar** 2020
 
-🏅 Talentpool Scholarship – SSC  2018
-🎓 General Grade Scholarship – HSC 2022 
+🏅 **Talentpool Scholarship – SSC  2018**
+🎓 **General Grade Scholarship – HSC 2022** 
 
-🌍 Google Community Product Expert (2022)
+🌍 **Google Community Product Expert (2022)**
 
 
 ---
