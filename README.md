@@ -132,7 +132,7 @@ Chilekotha Projects- https://chilekotha.xyz/
 
 ## 🌐Company Portfolio
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-chilekotha.top-green?style=for-the-badge)](https://chilekotha.xyz)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-chilekotha.xyz-green?style=for-the-badge)](https://chilekotha.xyz)
 ---
 
 ## 🌐Hira's Portfolio
